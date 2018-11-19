@@ -1,0 +1,27 @@
+body {
+
+    background-color: rgba(0, 255, 255 , 1)
+}
+
+center button {
+    height: 18vh;
+    width: 24vw;
+    margin: 39vh 0 0 0;
+    border: solid #fff 4px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 3rem;
+    font-family: 'Lato';
+    background-color: transparent;
+    transition-duration: .6s;
+}
+
+center button:hover {
+    background-color: #fff;
+    border: solid rgba(0, 225, 255, .5) 4px;
+    color: rgba(0, 255, 255, 1);
+}
+
+h1 {
+    text-align: center;
+}
